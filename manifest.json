@@ -1,0 +1,13 @@
+{
+  "name": "黄果短剧插件源",
+  "description": "HGhub HPP 1.0 单文件插件：huangguoai.com 短剧（含成人内容）",
+  "plugins": [
+    {
+      "id": "huangguo",
+      "name": "黄果短剧",
+      "version": "1.1.0",
+      "description": "首页、分类、榜单、搜索、详情、HLS 播放与图文；封面走站点公开的 AES-CBC 图床协议。",
+      "url": "plugins/huangguo.js"
+    }
+  ]
+}

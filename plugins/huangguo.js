@@ -1,7 +1,7 @@
 export const meta = {
   id: 'huangguo',
   name: '黄果短剧',
-  version: '1.1.0',
+  version: '1.1.1',
   protocol: 1,
   description: '黄果短剧（huangguoai.com）：首页、分类、榜单、搜索、详情、HLS 播放与图文。封面走站点公开的 AES-CBC 图床协议。',
   author: 'community',

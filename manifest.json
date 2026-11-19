@@ -5,7 +5,7 @@
     {
       "id": "huangguo",
       "name": "黄果短剧",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "description": "首页、分类、榜单、搜索、详情、HLS 播放与图文；封面走站点公开的 AES-CBC 图床协议。",
       "url": "https://raw.githubusercontent.com/brutohsiun/huangguo-plugin/main/plugins/huangguo.js"
     }
